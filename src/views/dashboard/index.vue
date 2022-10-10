@@ -28,7 +28,6 @@ export default {
     // Chain,
     // RelationGraph,
     // BothwayTree,
-    GeneralTree
   },
   data() {
     return {
