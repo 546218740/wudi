@@ -9,8 +9,6 @@
 
     <!--<el-button @click="initBothwayTreeData">bothwayTree</el-button>
     <bothway-tree :bothway-tree-data="bothwayTreeData" />-->
-
-    <general-tree />
   </div>
 </template>
 
@@ -19,7 +17,6 @@ import { mapGetters } from 'vuex'
 // import Chain from '@/components/Chart/Chain'
 // import RelationGraph from '@/components/Chart/RelationGraph'
 // import BothwayTree from '@/components/Chart/BothwayTree'
-import GeneralTree from '@/components/Chart/GeneralTree'
 import { getChainList } from '@/api/chart'
 import { getRelationGraphList } from '@/api/chart'
 import { getBothwayTreeList } from '@/api/chart'

@@ -129,7 +129,7 @@ const homeRouter = [
     component: Layout,
     children: [
       {
-        path: 'https://panjiachen.github.io/vue-element-admin-site/#/',
+        path: 'https://github.com/546218740/wudi-vue-project',
         meta: { title: 'External Link', icon: 'link' }
       }
     ]
