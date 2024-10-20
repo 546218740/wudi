@@ -9,7 +9,7 @@
 git clone https://github.com/546218740/wudi-vue-project.git
 
 # enter the project directory
-cd vue-admin-template
+cd wudi-vue-project
 
 # install dependency
 npm install
